@@ -23,6 +23,10 @@
       "types": "./dist/semver/index.d.ts",
       "default": "./dist/semver/index.mjs"
     },
+    "./api": {
+      "types": "./dist/api/index.d.ts",
+      "default": "./dist/api/index.mjs"
+    },
     "./package.json": "./package.json"
   },
   "repository": {
